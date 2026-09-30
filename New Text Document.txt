@@ -1,0 +1,89 @@
+# HERO SECTION — HOLISTIC PROFESSIONAL INTRODUCTION
+
+Do NOT display any academic marks, percentages, examination scores, or numerical achievements in the hero section.
+
+Do NOT show:
+
+* 427 / 600
+* 283 / 400
+* 144 / 200
+* 293 / 400
+* 94%
+* 93%
+* 86%
+* Any other marks or academic statistics
+
+The hero should introduce me through a **holistic professional identity**.
+
+## Primary
+
+**Sanskriti Jain**
+
+## Professional Identity
+
+**Chartered Accountancy Student | Aspiring Finance Professional**
+
+## Supporting Statement
+
+Present me as a CA student developing a strong combination of:
+
+* **Accounting**
+* **Taxation**
+* **GST**
+* **GST Notices**
+* **Auditing**
+* **Financial Management**
+* **Practical Articleship Experience**
+* **Professional Development**
+
+Keep the wording concise and sophisticated.
+
+The hero should communicate that I am developing professionally through both **CA education and practical articleship experience**, without making the section feel like an academic résumé.
+
+## Suggested Hero Messaging
+
+Use a refined statement along the lines of:
+
+**Building a strong foundation in Chartered Accountancy through academic learning, practical articleship experience, and continuous professional development.**
+
+Do not add unsupported claims or exaggerated career statements.
+
+## Hero Visual Direction
+
+Create a visually elegant pastel hero section using the established:
+
+* Warm ivory
+* Dusty rose
+* Soft sage
+* Powder blue
+* Muted lavender
+
+palette.
+
+Use subtle abstract shapes, fine lines, or editorial-style visual elements to create personality without distracting from the content.
+
+The hero should feel:
+
+**Professional + Intelligent + Approachable + Ambitious + Refined**
+
+## Hero CTAs
+
+Use:
+
+**Explore My Journey**
+
+and
+
+**Professional Experience**
+
+Optionally include:
+
+**Connect on LinkedIn**
+
+using the supplied LinkedIn URL as a normal external link.
+
+## IMPORTANT
+
+The hero is an **identity statement**, not a statistics dashboard.
+
+Academic scores and numerical achievements should appear later in dedicated sections where they have appropriate context.
